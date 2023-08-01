@@ -1,0 +1,134 @@
+/*.abc{
+	background-image: url("Learning.jpg");
+	height: 500px;
+	width: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body{
+	background-image: url("Learning.jpg");
+	height: 100%;
+	width: 100%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}*/
+/*div{
+	width: 500px;
+	border-style: double;
+	border-width: 5px;
+	border-color: red green yellow blue;
+	border-top-style: dotted;
+	border-bottom-style: dashed;
+	border-right-style: inset;
+	border-left-style: ridge;
+	border-radius: 10px;
+	/*border: 5px solid blue;
+}*/
+.abc{
+  border: 10px dotted red;
+ padding: 30px;
+  width: 200px;
+  background: pink;
+  background-clip: padding-box;
+}
+.div{
+	width: 300px;
+	height:500px;
+}
+.div1{
+	height: 100px;
+	width: 300px;
+}
+.a{
+	border: 5px dotted black;
+	height: 50px;
+	text-align: center;
+	width: 100px;
+	float: left;
+}
+.b{
+	border: 5px dashed black;
+	text-align: center;
+	height: 50px;
+	width: 100px;
+	float: right;
+}
+.div2{
+	height: 100px;
+	width: 300px;
+}
+.c{
+	text-align: center;
+	border:5px solid black;
+	width: 100px;
+	height: 50px;
+	float:left;
+}
+.d{
+	text-align: center;
+	border:5px double black;
+	width: 100px;
+	height: 50px;
+	float:right;
+}
+.div3{
+	height: 100px;
+	width: 300px;
+}
+.e{
+	text-align: center;
+	border:5px groove black;
+	width: 100px;
+	height: 50px;
+	float:left;
+}
+.f{
+	text-align: center;
+	border:5px ridge black;
+	width: 100px;
+	height: 50px;
+	float:right;
+}
+.div4{
+	height: 100px;
+	width: 300px;
+}
+.g{
+	text-align: center;
+	border:5px inset black;
+	width: 100px;
+	height: 50px;
+	float:left;
+}
+.h{
+	text-align: center;
+	border:5px outset black;
+	width: 100px;
+	height: 50px;
+	float:right;
+}
+.div5{
+	height: 100px;
+	width: 300px;
+}
+.i{
+	text-align: center;
+	border:5px none black;
+	width: 100px;
+	height: 50px;
+	float:left;
+}
+.j{
+	text-align: center;
+	border:5px hidden black;
+	width: 100px;
+	height: 50px;
+	float:right;
+}
+.main{
+	width: 500px;
+	height: 150px;
+	background-color: black;
+}

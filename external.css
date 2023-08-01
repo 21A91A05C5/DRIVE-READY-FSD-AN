@@ -1,0 +1,45 @@
+/*#asd{
+	color: green;
+
+}*/
+/*p{
+	color: blue;
+	background-color: pink;
+	font-size: 30px;
+
+}
+h3{
+	background-color: lightgreen;
+}
+*{
+	font-family: cursive;
+	margin: 4px;
+	padding: 4px;
+}*/
+/*input[type]{
+	color: yellow;
+}
+input[type="text"]{
+	color: blue;
+}
+input[type="number"]{
+	color: red;
+}*/
+h3{
+	color: red;
+	font-size: 30px;
+}
+a:link{
+	color:green;
+}
+a:hover{
+	color: red;
+	font-size: 30px;
+	font-family: cursive;
+}
+a:active{
+	color: violet;
+}	
+a:visited{
+	color:pink;
+}

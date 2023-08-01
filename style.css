@@ -1,0 +1,149 @@
+.div1{
+	width: 600px;
+	height: 2000px;
+	background-color: white;
+}
+.div2{
+	width: 600px;
+	height: 500px;
+	background-color:white;
+}
+.a{
+	width: 600px;
+	height: 300px;
+}
+.aa{
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+img{
+	width: 300px;
+	height: 300px;
+}
+.ab{
+	width: 300px;
+	height: 300px;
+	float: right;
+}
+.abc{
+	float: center;
+	color: orange;
+	padding-right: 60px;
+	padding-top: 30px;
+}
+button{
+	width: 100px;
+	height: 40px;
+	background-color: #7BB4E3;
+	border-radius: 8px;
+	margin-right: 150px;
+}
+
+.b{
+	width: 600px;
+	height: 200px;
+	background-color:#7BB4E3;
+}
+
+#b1{
+	padding-top:0px;
+	color: white;
+}
+.b2{
+	height: 140px;
+	width: 130px;
+	float: left;margin-left: 15px;
+	background-color:lightblue;
+}
+#up{
+	width: 140px;
+	height: 50px;
+	
+}
+.ig{
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+.head{
+	float: right;
+	padding-right: 20px;
+}
+#down{
+	width: 140px;
+	height: 90px;
+}
+.b3{
+	height: 140px;
+	width: 130px;
+	float: left;margin-left: 15px;
+	background-color:white;
+}
+.b4{
+	height: 140px;
+	width: 130px;
+	float: left;margin-left: 15px;
+	background-color:lightblue;
+}
+.b5{
+	height: 140px;
+	width: 130px;
+	float: right;margin-right: 15px;
+	background-color:white;
+}
+.div3{
+	width: 600px;
+	height: 500px;
+	background-color:white;
+}
+.image{
+	width: 330px;
+	height: 180px;
+	float: right;
+	margin-right: 30px;
+}
+.picture{
+	width: 300px;
+	height: 180px;
+	float: left;
+}
+.guide{
+	color: yellow;
+	padding-top: 20px;
+	font-family:cursive;
+}
+.div4{
+	width: 600px;
+	height: 500px;
+}
+.contact{
+	width: 200px;
+	height: 300px;
+	float: left;
+}
+.con{
+	width: 200px;
+	height: 100px;
+	float: right;
+	margin-right: 90px;
+}
+.but{
+	border-radius: 20px;
+	background-color: seagreen;
+}
+.div5{
+	width: 600px;
+	height: 500px;
+	background-color:white;
+}
+.num{
+	color:pink;
+	font-size: 50px;
+	float: left;
+}
+.numb{
+	color:pink;
+	font-size: 50px;
+	float: right;
+}

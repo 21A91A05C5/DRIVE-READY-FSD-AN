@@ -1,0 +1,30 @@
+.para{
+	background-color: pink;
+	margin: 20px;color: red;
+}
+.div1{
+	width: 1000px;
+	height: 400px;
+}
+.d1{
+	width: 250px;
+	height: 300px;
+	background-color:orange;
+	float: left;
+	margin-left: 20px;
+	border: 1px inset black;
+}
+.d2{
+	width: 250px;
+	height: 300px;
+	background-color:violet;
+	float: left;
+	margin-left: 20px;
+}
+.d3{
+	width: 250px;
+	height: 300px;
+	background-color:cyan;
+	float:left;
+	margin-left: 20px;
+}
